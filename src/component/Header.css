@@ -63,10 +63,10 @@ ul {
 
 .example-2 {
     display: flex;
-    width: 100%;
-    align-items: center;
     justify-content: center;
-    row-gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
 }
 
 .example-2 .icon-content {
@@ -239,6 +239,10 @@ ul {
     background-color: #0088cc;
 }
 
+.web-link {
+    font-size: 2rem;
+    text-decoration: none;
+}
 
 /* TEXTS */
 .socialTexts {

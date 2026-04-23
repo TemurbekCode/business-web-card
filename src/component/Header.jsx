@@ -113,7 +113,15 @@ function Header() {
                             </svg>
                         </a>
                     </li>
-                </ul><br /><br />
+                    <ul class="example-2">
+                        <li class="icon-content">
+                            <a className="web-link" href="https://portfolio-temurbek.netlify.app/">
+                                🌐
+                            </a>
+                        </li>
+                    </ul>
+                </ul><br /><br /><br />
+
 
                 <div className="contactt">
                     <a href="mailto:temurbekalisherov82@gmail.com" className="contact">
