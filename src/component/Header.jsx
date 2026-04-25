@@ -116,7 +116,8 @@ function Header() {
                     <ul class="example-2">
                         <li class="icon-content">
                             <a className="web-link" href="https://portfolio-temurbek.netlify.app/">
-                                🌐
+                                {/* 🌐 */}
+                                <img src="globe.png" className="globe"  />
                             </a>
                         </li>
                     </ul>

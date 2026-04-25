@@ -285,7 +285,7 @@ ul {
 }
 
 .hr {
-    width: 97%;
+    width: 90%;
     height: 1px;
     background-color: #fff;
     margin: 20px 0;
@@ -295,4 +295,10 @@ ul {
     padding: 10px 0;
     font-size: 1rem;
     color: #fff;
+}
+
+.globe {
+    width: 74px; 
+    height: 74px;
+    object-fit: contain;
 }
