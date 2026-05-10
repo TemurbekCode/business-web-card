@@ -5,7 +5,7 @@ function Header() {
     return (
         <header className="header">
             <div className="img">
-                <img src="client.jpg" className="imgM" />
+                <img src="profile.jpg" className="imgM" />
             </div>
             <h1 className="name">Temur Alisherov</h1><br /><br />
 
