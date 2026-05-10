@@ -290,7 +290,13 @@ ul {
 }
 
 .globe {
-    width: 74px; 
+    width: 74px;
     height: 74px;
     object-fit: contain;
+}
+
+@media (max-width: 800px) {
+    .header {
+        width: 100%;
+    }
 }
