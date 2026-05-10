@@ -100,7 +100,7 @@ function Header() {
                 <ul class="example-2">
                     <li class="icon-content">
                         <a
-                            href="https://t.me/ysnvch"
+                            href="https://t.me/alisherovdevs"
                             aria-label="Telegram"
                             data-social="telegram"
                         >
