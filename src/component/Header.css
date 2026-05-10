@@ -5,7 +5,7 @@
 }
 
 .header {
-    width: 25%;
+    width: 100%;
     height: 100vh;
     background: linear-gradient(135deg, #020617, #0f172a);
     display: flex;
@@ -13,13 +13,6 @@
     align-items: center;
     padding: 60px 0;
     color: #ffffffff;
-}
-
-.media {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
 }
 
 .header::before {
@@ -302,14 +295,3 @@ ul {
     object-fit: contain;
 }
 
-@media (max-width: 800px) {
-    .header {
-        width: 100%;
-        height: 100vh;
-        padding: 30px 0;
-    }
-
-    .media {
-        width: 100%;
-    }
-}
